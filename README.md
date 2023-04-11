@@ -1,4 +1,5 @@
 # droneSpectrumMap
+2016-2017
 <h3>Objective </h3>
 Create a 3D signal quality map using a drone as a mobile receiver carrier. This will be accomplished through the use of a 3DR Solo drone (receiver carrier), mobile Android device (signal recorder), and Octave (graphical program with custom written interpolation algorithms).
 <br/><br/>
